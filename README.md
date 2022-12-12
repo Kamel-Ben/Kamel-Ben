@@ -1,15 +1,11 @@
-<h1 align="center"> Hi there, I'm Kryptonite 👋 </h1>
+<h1 align="center"> Hi there, I'm Kam 👋 </h1>
 
 
-<h3 align="left">Young man interested in Finance and Blockchain technologies</h3>
+<h3 align="left">Interested in every aspect of finance and blockchain technologies</h3>
 
-- :man_technologist: Currently working on NFTs smart contracts & deployments
+- 💬 Ask me about **finance, blockchain, technologie**
 
-- 💬 Ask me about **finance, smart-contracts, NFTs**
-
-- 📫 Reach me at **kryptonite.connect@gmail.com**
-
-- ⚡ Discord : Kryptonite#0985
+- ⚡ Discord : Kam | Imperator.co#0985
 
 
 <h3 align="left">Connect with me:</h3>
